@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me 
 Gmail    - themlguy10@gmail.com  
-Instagram- instagram.com/anson.10 
+Instagram- https://www.instagram.com/anson.10/ 
 
 <!---
 anson10/anson10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
