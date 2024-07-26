@@ -34,10 +34,10 @@ I love solving complex problems with simple solutions and I'm always up for a ch
 
 ## 📈 GitHub Stats
 
-![Anson's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Anson's GitHub stats](https://github-readme-stats.vercel.app/api?username=anson10&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anson10&layout=compact&theme=radical)
 
-![Profile views](https://gpvc.arturio.dev/yourusername)
+![Profile views](https://gpvc.arturio.dev/anson10)
 
 ## 📝 Latest Blog Posts
 
