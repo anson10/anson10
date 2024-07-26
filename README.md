@@ -28,9 +28,7 @@ Welcome to my GitHub profile! I'm a passionate engineer with a strong interest i
 ## 🤝 Connect with Me
 - **Instagram**: [@anson.10](https://www.instagram.com/anson.10)
 - **Email**: sansonmsa@gmail.com
-
-## 💡 Fun Fact
-I love solving complex problems with simple solutions and I'm always up for a challenge. Whether it's cracking a tough coding problem or optimizing a machine learning model, I'm in my element when I'm pushing the boundaries of what's possible.
+- 
 
 ## 📈 GitHub Stats
 
