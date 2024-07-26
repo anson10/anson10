@@ -42,9 +42,8 @@ I love solving complex problems with simple solutions and I'm always up for a ch
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Deep Learning is Transforming the World](#)
-- [A Beginner's Guide to Machine Learning](#)
-- [Exploring Robotics with Julia](#)
+- [A Beginner's Guide to Machine Learning](https://www.akkio.com/beginners-guide-to-machine-learning)
+- [Exploring Robotics with Julia](https://juliarobotics.org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
