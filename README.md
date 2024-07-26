@@ -28,8 +28,7 @@ Welcome to my GitHub profile! I'm a passionate engineer with a strong interest i
 ## 🤝 Connect with Me
 - **Instagram**: [@anson.10](https://www.instagram.com/anson.10)
 - **Email**: sansonmsa@gmail.com
-- 
-
+  
 ## 📈 GitHub Stats
 
 ![Anson's GitHub stats](https://github-readme-stats.vercel.app/api?username=anson10&show_icons=true&theme=radical)
