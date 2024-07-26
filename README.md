@@ -37,7 +37,7 @@ I love solving complex problems with simple solutions and I'm always up for a ch
 ![Anson's GitHub stats](https://github-readme-stats.vercel.app/api?username=anson10&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anson10&layout=compact&theme=radical)
 
-![Profile views](https://gpvc.arturio.dev/anson10)
+![Profile Views](https://komarev.com/ghpvc/?username=anson10)
 
 ## 📝 Latest Blog Posts
 
