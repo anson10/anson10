@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Mechanical Engineering
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me 
-Gmail    - xplore.techall@gmail.com  
+Gmail    - sansonmsa@gmail.com  
 Instagram- https://www.instagram.com/anson.10/ 
 
 <!---
