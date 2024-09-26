@@ -1,17 +1,12 @@
 
 # Hi there! 👋 I'm Anson
 
-Welcome to my GitHub profile! I'm a passionate engineer with a strong interest in **Deep Learning**, **Machine Learning**, and **Robotics**. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a mechanical engineer with a strong interest in **Deep Learning**, and **Robotics**. Here's a bit more about me:
 
 ## 🔭 What I'm Working On
-- Building intelligent systems using deep learning techniques
-- Developing machine learning models to solve real-world problems
+- Building intelligent systems using deep learning methods
+- Learning C++ for future projects
 - Exploring the world of robotics with Julia
-
-## 🌱 What I'm Learning
-- Advanced concepts in AI and ML
-- Enhancing my skills in Python and C++
-- Diving deeper into Julia for robotics applications
 
 ## 💻 Languages & Tools
 
