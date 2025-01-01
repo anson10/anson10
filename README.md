@@ -18,11 +18,12 @@ Welcome to my GitHub profile! I'm a mechanical engineer with a strong interest i
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## 🎓 Education
+- Diploma in Accounting and Finance
 - Bachelor’s degree in Mechanical Engineering
 
 ## 🤝 Connect with Me
 - **Instagram**: [@anson.10](https://www.instagram.com/anson.10)
-- **Email**: sansonmsa@gmail.com
+- **Email**: ansonantony@xplore.icu
   
 ## 📈 GitHub Stats
 
@@ -41,9 +42,5 @@ Welcome to my GitHub profile! I'm a mechanical engineer with a strong interest i
 
 ---
 
-⭐️ From [Anson](https://github.com/yourusername)
+⭐️ From [Anson](https://github.com/anson10)
 
-<!---
-anson10/anson10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
