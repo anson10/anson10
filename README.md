@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a mechanical engineer with a strong interest i
 ## 🔭 What I'm Working On
 - Building intelligent systems using deep learning methods
 - Learning C++ for future projects
-- Exploring the world of robotics with Julia
+- Exploring robotics with Julia
 
 ## 💻 Languages & Tools
 
@@ -32,13 +32,6 @@ Welcome to my GitHub profile! I'm a mechanical engineer with a strong interest i
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anson10)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [A Beginner's Guide to Machine Learning](https://www.akkio.com/beginners-guide-to-machine-learning)
-- [Exploring Robotics with Julia](https://juliarobotics.org/)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
