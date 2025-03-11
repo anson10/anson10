@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a mechanical engineer with a strong interest i
 
 ## 📈 GitHub Stats
 
-![Anson's GitHub stats](https://github-readme-stats.vercel.app/api?username=anson10&show_icons=true&theme=merko)
+![Anson's GitHub stats](https://github-readme-stats.vercel.app/api?username=anson10&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anson10&layout=compact&theme=transparent&card_width=500)
 
 
