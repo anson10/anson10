@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anson10&theme=radical&margin-w=10&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anson10&theme=radical&margin-w=10&no-bg=true&no-frame=true&exclude=PullRequestReviewer" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🔍 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anson10&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anson10&layout=compact&theme=radical&hide_border=true" width="45%" />
 </p>
 
 ---
