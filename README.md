@@ -2,17 +2,27 @@
 <h3 align="center">Mechanical Engineer | Deep Learning Enthusiast | Robotics Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+smart+systems+with+DL+%F0%9F%92%BB;Exploring+Robotics+%E2%9A%BE%EF%B8%8F+with+Julia;C%2B%2B+learner+and+open+source+fan+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Deep+Learning+%F0%9F%96%A5%EF%B8%8F;C%2B%2B+%26+Simulation+Projects+%F0%9F%9A%80;Exploring+Robotics+with+Julia+%E2%9A%BE%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Working on deep learning-based intelligent systems
-- 💻 Exploring robotics using **Julia**
-- 💡 Currently learning advanced **C++**
-- 📚 Diploma in Accounting and Finance + B.E. in Mechanical Engineering
-- 📍 Based in India
+
+I'm Anson — I studied Mechanical Engineering but somehow ended up writing neural networks and simulating particles in C++.
+
+Right now, I'm deep into Deep Learning, building models that actually solve real problems — not just pass benchmarks.  
+I'm also experimenting with robotics using Julia, ROS, and anything else that breaks and teaches me something in the process.
+
+Coding isn’t just a skill for me — it’s how I build stuff I wish existed.  
+If a project involves sensors, motion, or predictions, I'm all in.
+
+---
+
+## 🎓 Education
+
+- 🧾 **Diploma** in Accounting and Finance  
+- 🛠 **Bachelor’s Degree** in Mechanical Engineering  
 
 ---
 
@@ -46,12 +56,12 @@
 ## 🔍 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anson10&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anson10&layout=compact&theme=radical&hide_border=true&langs_count=6" width="45%" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="mailto:ansonantony@xplore.icu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
@@ -68,6 +78,6 @@
 ---
 
 <p align="center">
-  <b>⭐️ Thanks for visiting! ⭐️</b><br>
-  Made with ❤️ by <a href="https://github.com/anson10">Anson</a>
+  <b>⭐ Thanks for stopping by!</b><br>
+  <sub>— Built with focus and curiosity by <a href="https://github.com/anson10">Anson</a></sub>
 </p>
