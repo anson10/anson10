@@ -71,6 +71,13 @@ If a project involves sensors, motion, or predictions, I'm all in.
 
 ---
 
+## 📊 My Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
