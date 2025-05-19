@@ -2,24 +2,24 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour
-  workflow_dispatch:
+    - cron: '0 * * * *'    # Runs every hour at minute 0
+  workflow_dispatch:       # Allows manual triggering from GitHub Actions UI
 
 jobs:
   update-wakatime-stats:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Update WakaTime stats
+      - name: Update WakaTime stats in README
         uses: wakatime/wakatime-cli-action@v1
         with:
           api_key: ${{ secrets.WAKATIME_API_KEY }}
           update_readme: true
           readme_section: waka
-          timezone: "Asia/Kolkata"
+          timezone: "Asia/Kolkata"    # Change to your timezone
 
       - name: Commit and push changes
         run: |
