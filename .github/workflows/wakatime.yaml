@@ -1,0 +1,27 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # runs every hour — you can adjust this timing
+  workflow_dispatch:       # allows manual run from GitHub UI
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: wakatime/github-action@v1
+        with:
+          wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
+          readme: true
+          readme_section: waka
+          timezone: "Asia/Kolkata"  # change this to your timezone
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update WakaTime stats" || echo "No changes to commit"
+          git push
