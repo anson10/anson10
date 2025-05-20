@@ -14,9 +14,6 @@ I'm Anson — I studied Mechanical Engineering but somehow ended up writing neur
 Right now, I'm deep into Deep Learning, building models that actually solve real problems — not just pass benchmarks.  
 I'm also experimenting with robotics using Julia, ROS, and anything else that breaks and teaches me something in the process.
 
-Coding isn’t just a skill for me — it’s how I build stuff I wish existed.  
-If a project involves sensors, motion, or predictions, I'm all in.
-
 ---
 
 ## 🎓 Education
@@ -68,13 +65,6 @@ If a project involves sensors, motion, or predictions, I'm all in.
   <a href="https://www.instagram.com/anson.10"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/anson10"><img src="https://img.shields.io/github/followers/anson10?label=Follow&style=social" /></a>
 </p>
-
----
-
-## 📊 My Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
