@@ -47,11 +47,6 @@ I'm also experimenting with robotics using Julia, ROS, and anything else that br
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anson10&theme=radical&margin-w=10&no-bg=true&no-frame=true&exclude=PullRequestReviewer" />
 </p>
-
-### Wakatime Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
 ## 🔍 Top Languages
