@@ -55,7 +55,7 @@ Platforms :     Linux, Git, Excel, VS Code
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:ansonantony@xplore.icu">📧 Email</a> • 
+  <a href="mailto:sansonmsa@gmail.com">📧 Email</a> • 
   <a href="https://github.com/anson10">💻 GitHub</a> • 
   <a href="https://www.instagram.com/anson.10">📷 Instagram</a>
 </p>
