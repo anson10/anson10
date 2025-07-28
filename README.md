@@ -47,6 +47,7 @@ Platforms :     Linux, Git, Excel, VS Code
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anson10&show_icons=false&theme=gruvbox&hide_border=true&hide=issues&count_private=true" width="47%" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anson10&theme=gruvbox&hide_border=true" width="47%" />
 </p>
 
