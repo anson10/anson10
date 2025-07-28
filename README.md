@@ -57,6 +57,5 @@ Platforms :     Linux, Git, Excel, VS Code
   <a href="https://www.instagram.com/anson.10">📷 Instagram</a>
 </p>
 
----
 
 <p align="center"><sub>Continuously evolving — one commit at a time</sub></p>
