@@ -47,6 +47,7 @@ Platforms :     Linux, Git, Excel, VS Code
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anson10&show_icons=false&theme=gruvbox&hide_border=true&hide=issues&count_private=true" width="47%" />
+  
 ---
 
 ### 🤝 Connect with Me
@@ -57,5 +58,5 @@ Platforms :     Linux, Git, Excel, VS Code
   <a href="https://www.instagram.com/anson.10">📷 Instagram</a>
 </p>
 
-
+---
 <p align="center"><sub>Continuously evolving — one commit at a time</sub></p>
