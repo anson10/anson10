@@ -12,7 +12,7 @@
 
 ### 🧭 About Me
 
-- 🛠 Mechanical Engineer by training  
+- 🛠 Mechanical Engineer  
 - 📊 Accounting and Finance by diploma  
 - ⚛️ Currently pursuing a Master’s in **Computational Materials Science** (2025–2027)
 
