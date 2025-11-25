@@ -16,7 +16,7 @@
 - 📊 Accounting and Finance by diploma  
 - ⚛️ Currently pursuing a Master’s in **Computational Materials Science** (2025–2027)
 
-My focus is on modeling physical systems using code — whether it's atoms in motion or capital in markets.
+My focus is on modeling physical systems using code whether it's atoms in motion or capital in markets.
 
 ---
 
