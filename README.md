@@ -46,7 +46,7 @@ Platforms :     Linux, Git, Excel, VS Code
 ### 📈 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anson10&show_icons=false&theme=gruvbox&hide_border=true&hide=issues&count_private=true" width="47%" />
+  <img src="![Anson's GitHub stats](https://github-readme-stats.vercel.app/api?username=anson10&show_icons=true&theme=radical" width="47%" />
   
 ---
 
