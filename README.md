@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>Materials Science ⚛️ | Mechanical Engineering ⚙️ | Finance 📊</em><br>
-  <em>Blending simulations, code, and capital.</em>
+  <em>simulations, code, and capital</em>
 </p>
 
 ---
@@ -41,13 +41,6 @@ Platforms :     Linux, Git, Excel, VS Code
 
 ```
 
----
-
-### 📈 GitHub Stats 
-
-<p align="center">
-  <img src="![Anson's GitHub stats](https://github-readme-stats.vercel.app/api?username=anson10&show_icons=true&theme=radical" width="47%" />
-  
 ---
 
 ### 🤝 Connect with Me
