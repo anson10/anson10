@@ -5,7 +5,6 @@
 
 <p align="center">
   <em>Materials Science ⚛️ | Mechanical Engineering ⚙️ | Finance 📊</em><br>
-  <em>simulations, code, and capital</em>
 </p>
 
 ---
