@@ -4,20 +4,20 @@
 <h1 align="center">Anson Antony</h1>
 
 <p align="center">
-  <em>Materials Science ⚛️ | Mechanical Engineering ⚙️ | Finance 📊</em><br>
+  <em>Materials Science  | Mechanical Engineering  | Finance </em><br>
 </p>
 
 ---
 
-### 🧭 About Me
+###  About Me
 
-- 🛠 Mechanical Engineer  
-- 📊 Accounting and Finance by diploma  
-- ⚛️ Currently pursuing a Master’s in **Computational Materials Science** (2025–2027)
+-  Mechanical Engineer  
+-  Accounting and Finance by diploma  
+-  Currently pursuing a Master’s in **Computational Materials Science** (2025–2027)
   
 ---
 
-### 🧠 Interests
+###  Interests
 
 - Atomistic & Continuum Simulations  
 - Deep Learning for Physical Systems  
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Tools I Use
+###  Tools I Use
 
 ```
 
