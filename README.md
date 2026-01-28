@@ -43,7 +43,7 @@ Platforms :     Linux, Git, Excel, VS Code
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="hello@ansonantony.tech">📧 Email</a> • 
+  <a href="mailto:hello@ansonantony.tech">📧 Email</a> • 
   <a href="https://github.com/anson10">💻 GitHub</a> • 
   <a href="https://www.instagram.com/anson.10">📷 Instagram</a>
 </p>
