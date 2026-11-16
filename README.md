@@ -29,7 +29,7 @@ Three connected projects take one problem from model to factory floor. Every res
 |---|---|---|---|
 | **[FabEye](https://github.com/anson10/FabEye)** | Wafer-map failure pattern recognition on real fab data (WM-811K) | 0.858 macro-F1 on a lot-disjoint split; conformal review rule auto-accepts 96.2% of wafers at a 1.9% error rate on unseen lots | PyTorch, ONNX Runtime, FastAPI, Docker |
 | **[WaferLens](https://github.com/anson10/waferLens)** | Yield-excursion detection and root cause on a simulated fab with logged ground truth | Chamber EWMA/CUSUM alarm after a median 8–9 affected wafers vs. 33 for Shewhart; SQL commonality analysis ranks the true chamber first for 72% of yield-loss excursions (chance: 0.8%) | PostgreSQL/TimescaleDB, dbt, Dagster, Kafka, Power BI |
-| **[WaferEdge](https://github.com/anson10/WaferEdge)** | Real-time wafer-map watchdog at the equipment, speaking SEMI HSMS/SECS-II | Sort result to lot-hold decision in 0.3–0.5 ms median at 1,000–5,000 wafers/s; own CUDA engine runs FabEye's CNN at ~11,000–13,000 maps/s | C++23, CUDA, AVX2, Asio, CMake |
+| **[WaferEdge](https://github.com/anson10/WaferEdge)** | Real-time wafer-map watchdog at the equipment, speaking SEMI HSMS/SECS-II | Sort result to lot-hold decision in 0.13–0.16 ms median at 1,000–5,000 wafers/s; own CUDA engine runs FabEye's CNN at ~19,000–26,000 maps/s | C++23, CUDA, AVX2, Asio, CMake |
 
 Also: **[PhaseNet](https://github.com/anson10/PhaseNet)**, phase identification from LAMMPS molecular dynamics snapshots, trained with PyTorch DDP. **[QM9-GPT](https://github.com/anson10/QM9-GPT)**, inverse molecular design on QM9.
 
